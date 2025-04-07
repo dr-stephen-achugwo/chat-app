@@ -1,0 +1,9 @@
+.newmessage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 10px;
+    height: 5%;
+    width: 60%;
+}

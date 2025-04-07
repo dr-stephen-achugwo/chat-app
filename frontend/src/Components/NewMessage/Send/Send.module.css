@@ -1,0 +1,12 @@
+.send {
+    border: 0px solid #ffffff;
+    border-radius: 8px;
+
+    background-color: #ffffff;
+    color: #000000;
+
+    margin-left: 5px;
+    padding: 10px;
+    height: 100%;
+    width: 100px;
+}
